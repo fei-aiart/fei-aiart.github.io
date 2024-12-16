@@ -16,13 +16,15 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
 ## Selected Publications
 
-- **Fei Gao**, Yuhao Lin, Jiaqi Shi, Maoying Qiao, Nannan Wang\*. AesMamba: Universal Image Aesthetic Assessment with State Space Models. The 32nd ACM Multimedia Conference (ACM MM), Accepted (Oral), 2024. [Paper] ~ [[Github]](https://github.com/AiArt-Gao/AesMamba)
+- **Fei Gao**, Ying Zhou, Ziyun Li, Wenwang Han, Jiaqi Shi, Maoying Qiao, Jinlan Xu, Nannan Wang*. QuARF: Quality-Adaptive Receptive Fields for Degraded Image Perception. The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), Accepted, Feb. 25 – Mar. 4, 2025, Philadelphia, Pennsylvania, USA, 2025. [Paper] ~ [[Github]](https://github.com/AiArt-Gao/QuARF)
+
+- **Fei Gao**, Yuhao Lin, Jiaqi Shi, Maoying Qiao, Nannan Wang*. AesMamba: Universal Image Aesthetic Assessment with State Space Models. The 32nd ACM Multimedia Conference (ACM MM), 7444-7453, 2024 (Oral). [Paper@OpenReview](https://openreview.net/forum?id=obaazx0Hbz) ~ [Paper@ACMMM](https://dl.acm.org/doi/abs/10.1145/3664647.3681011) ~ [[Github]](https://github.com/AiArt-Gao/AesMamba)
 
 - Yu Chen \*, **Fei Gao** \*, Yanguang Zhang, Maoying Qiao, Nannan Wang**. Generating Handwritten Mathematical Expressions From Symbol Graphs: An End-to-End Pipeline. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 15675-15685, Seattle WA, USA, June 17-21, 2024. (\* Equal Contributions)  [[Paper]](https://cvpr.thecvf.com/virtual/2024/poster/31503) ~ [[Github]](https://github.com/AiArt-HDU/HMEG)
 
-- **Fei Gao**, Yifan Zhu, Chang Jiang, Nannan Wang, Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation, Proceedings of the International Conference on Computer Vision (ICCV), 7237-7247, 2023. [[Github]](https://github.com/AiArt-HDU/HIDA)
+- **Fei Gao**, Yifan Zhu, Chang Jiang, Nannan Wang, Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation, Proceedings of the International Conference on Computer Vision (ICCV), 7237-7247, 2023. [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Gao_Human-Inspired_Facial_Sketch_Synthesis_with_Dynamic_Adaptation_ICCV_2023_paper.html) ~ [[Github]](https://github.com/AiArt-HDU/HIDA)
 
-- **Fei Gao**, Lingna Dai, Jingjie Zhu, Mei Du, Yiyuan Zhang, Maoying Qiao, Chenghao Xia, Nannan Wang, and Peng Li \*， Human-Robot Interactive Creation of Artistic Portrait Drawings, 2024 IEEE International Conference on Robotics and Automation (ICRA), 11297-11304, May13-17, 2024, Yokohama, Japan. (\* Corresponding Author) [Github](https://github.com/fei-aiart/HRICA)
+- **Fei Gao**, Lingna Dai, Jingjie Zhu, Mei Du, Yiyuan Zhang, Maoying Qiao, Chenghao Xia, Nannan Wang, and Peng Li \*， Human-Robot Interactive Creation of Artistic Portrait Drawings, 2024 IEEE International Conference on Robotics and Automation (ICRA), 11297-11304, May13-17, 2024, Yokohama, Japan. (\* Corresponding Author) [Paper](https://ieeexplore.ieee.org/abstract/document/10611451/) ~ [Github](https://github.com/fei-aiart/HRICA)
 
 - Biao Ma, **Fei Gao*** , Chang Jiang, Nannan Wang, Gang Xu, "**Semantic-aware Generation of Multi-view Portrait Drawings**," *the 32nd International Joint Conference on Artificial Intelligence (IJCAI)*, 1258-1266, 2023. [[paper_arxiv]](https://arxiv.org/abs/2305.02618) ~ [[Github]](https://github.com/AiArt-HDU/SAGE)  ~ [[project]](https://vmaibex.github.io/)
 
