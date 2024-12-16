@@ -5,16 +5,18 @@ Good times, hard times, but never bad times. —— Steve Jobs
 ```
 -->
 
-## Biography
+## 个人简介 Biography
+
+**高飞** ，西安电子科技大学杭州研究院，副研究员（湘湖菁英教授）。2015年于西安电子科技大学获得信息与通信工程专业博士学位（导师：高新波 教授）；期间，于澳大利亚悉尼科技大学进行博士联合培养1年（导师：陶大程 教授）。曾任职于杭州电子科技大学计算机学院、浙江省北大信息技术高等研究院。主要研究兴趣包括视觉质量感知、智能内容生成（AIGC）、图像语义分析、绘画机器人、医疗影像分析、工业异常检测等课题。发表IEEE TNNLS、TCyber、TIP、CVPR、ICCV、ACM MM、AAAI、IJCAI、ICRA、IROS等期刊/会议论文30余篇，ESI高被引论文1篇。获得陕西省科学技术奖一等奖、IEEE ICME’21最佳展示奖亚军、全国博士后创新创业大赛铜奖等。主持国家自然科学基金面上项目、青年项目及浙江省自然科学基金青年项目，并参与多项科研课题。目前担任浙江省抗癌协会人工智能肿瘤诊疗专委会委员，及IEEE TIP, TMM, CVPR, ICCV等国际期刊和会议的审稿人。
 
 **Fei Gao** is currently with the [Intelligent Information Processing (IIP) Lab.](https://iip-xdu.github.io/) and [Hangzhou Institute of Technology](http://hz.xidian.edu.cn/), at [Xidian University](http://www.xidian.edu.cn/). He received his Bachelor Degree in Electronic Engineering and Ph.D. Degree in Information and Communication Engineering from [Xidian University](http://www.xidian.edu.cn/) (Xi'an, China) in 2009 and 2015, respectively. From Oct. 2012 to Sep. 2013, he was a Visiting Ph.D. Candidate in University of Technology, Sydney (UTS) in Australia. From July 2015 to June 2023, he works at Hangzhou Dianzi University.
 
 He mainly applies machine learning techniques to computer vision problems. His research interests include **visual quality assessment and enhancement, intelligent visual arts generation, biomedical image analysis,** etc. His research results have expounded in more than 30 publications at prestigious journals and conferences. He serverd for a number of journals and conferences.
 
-[[Github]](https://github.com/fei-aiart)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)   [[DBLP]](https://dblp.org/pid/16/722-6)  [[CN]](index_cn.md) [[Courses]](https://github.com/fei-aiart/courses)
+[[Github]](https://github.com/fei-aiart)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)   [[DBLP]](https://dblp.org/pid/16/722-6)  [[课程 Courses]](https://github.com/fei-aiart/courses)
 
 
-## Selected Publications
+## 论文 Selected Publications
 
 - **Fei Gao**, Ying Zhou, Ziyun Li, Wenwang Han, Jiaqi Shi, Maoying Qiao, Jinlan Xu, Nannan Wang*. QuARF: Quality-Adaptive Receptive Fields for Degraded Image Perception. The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), Accepted, Feb. 25 – Mar. 4, 2025, Philadelphia, Pennsylvania, USA, 2025. [Paper] ~ [[Github]](https://github.com/AiArt-Gao/QuARF)
 
