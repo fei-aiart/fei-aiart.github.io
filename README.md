@@ -1,77 +1,57 @@
-# Academic Pages
-**Academic Pages is a Github Pages template for academic websites.**
-
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
-
-# Getting Started
-
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
-
-See more info at https://academicpages.github.io/
-
-## Running locally
-
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
-
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
-
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
-
-## Using Docker
-
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
-
-Start by build the container:
-
-```bash
-docker build -t jekyll-site .
+<!-- 
+``` 
+Good times, hard times, but never bad times. —— Steve Jobs
+高飞，西电杭研院
 ```
+-->
 
-Next, run the container:
-```bash
-docker run -p 4000:4000 --rm -v $(pwd):/usr/src/app jekyll-site
-```
+## Biography
 
-# Maintenance
+**Fei Gao** is currently with the [Intelligent Information Processing (IIP) Lab.](https://iip-xdu.github.io/) and [Hangzhou Institute of Technology](http://hz.xidian.edu.cn/), at [Xidian University](http://www.xidian.edu.cn/). He received his Bachelor Degree in Electronic Engineering and Ph.D. Degree in Information and Communication Engineering from [Xidian University](http://www.xidian.edu.cn/) (Xi'an, China) in 2009 and 2015, respectively. From Oct. 2012 to Sep. 2013, he was a Visiting Ph.D. Candidate in University of Technology, Sydney (UTS) in Australia. From July 2015 to June 2023, he works at Hangzhou Dianzi University.
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+He mainly applies machine learning techniques to computer vision problems. His research interests include **visual quality assessment and enhancement, intelligent visual arts generation, biomedical image analysis,** etc. His research results have expounded in more than 30 publications at prestigious journals and conferences. He serverd for a number of journals and conferences.
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+[[Github]](https://github.com/fei-aiart)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)   [[DBLP]](https://dblp.org/pid/16/722-6)  [[CN]](index_cn.md)
 
-## Bugfixes and enhancements
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+## Selected Publications
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+- **Fei Gao**, Yuhao Lin, Jiaqi Shi, Maoying Qiao, Nannan Wang\*. AesMamba: Universal Image Aesthetic Assessment with State Space Models. The 32nd ACM Multimedia Conference (ACM MM), Accepted (Oral), 2024. [Paper] ~ [[Github]](https://github.com/AiArt-Gao/AesMamba)
 
----
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
+- Yu Chen \*, **Fei Gao** \*, Yanguang Zhang, Maoying Qiao, Nannan Wang**. Generating Handwritten Mathematical Expressions From Symbol Graphs: An End-to-End Pipeline. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 15675-15685, Seattle WA, USA, June 17-21, 2024. (\* Equal Contributions)  [[Paper]](https://cvpr.thecvf.com/virtual/2024/poster/31503) ~ [[Github]](https://github.com/AiArt-HDU/HMEG)
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+- **Fei Gao**, Yifan Zhu, Chang Jiang, Nannan Wang, Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation, Proceedings of the International Conference on Computer Vision (ICCV), 7237-7247, 2023. [[Github]](https://github.com/AiArt-HDU/HIDA)
+
+- **Fei Gao**, Lingna Dai, Jingjie Zhu, Mei Du, Yiyuan Zhang, Maoying Qiao, Chenghao Xia, Nannan Wang, and Peng Li \*， Human-Robot Interactive Creation of Artistic Portrait Drawings, 2024 IEEE International Conference on Robotics and Automation (ICRA), 11297-11304, May13-17, 2024, Yokohama, Japan. (\* Corresponding Author) [Github](https://github.com/fei-aiart/HRICA)
+
+- Biao Ma, **Fei Gao*** , Chang Jiang, Nannan Wang, Gang Xu, "**Semantic-aware Generation of Multi-view Portrait Drawings**," *the 32nd International Joint Conference on Artificial Intelligence (IJCAI)*, 1258-1266, 2023. [[paper_arxiv]](https://arxiv.org/abs/2305.02618) ~ [[Github]](https://github.com/AiArt-HDU/SAGE)  ~ [[project]](https://vmaibex.github.io/)
+
+- Chang Jiang, **Fei Gao***, Biao Ma, Yuhao Lin, Nannan Wang, Gang Xu, "**Masked and Adaptive Transformer for Exemplar Based Image Translation**," *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR), 2023, pp. 22418-22427. [[paper_cvpr]](https://openaccess.thecvf.com/content/CVPR2023/html/Jiang_Masked_and_Adaptive_Transformer_for_Exemplar_Based_Image_Translation_CVPR_2023_paper.html) ~  [[paper_arxiv]](https://arxiv.org/abs/2303.17123) ~ [[project]](https://github.com/AiArt-HDU/MATEBIT)
+
+- **Fei Gao**, Xingxin Xu, Jun Yu, Meimei Shang, Xiang Li, and Dacheng Tao, "**Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation**," *IEEE Transactions on Image Processing*, vol. 30, pp. 3487 - 3498, 2021. [[paper_ieee]](https://ieeexplore.ieee.org/document/9366371) ~ [[project]](https://fei-hdu.github.io/chan/)
+
+- Jun Yu, Xingxin Xu, **Fei Gao**\*, Shengjie Shi, et al. "**Towards Realistic Face Photo-Sketch Synthesis via Composition-Aided GANs**," *IEEE Transactions on Cybernatics*,  vol. 51, no. 9, pp. 4350 - 4362, 2021.  (Corresponding Author) [[project](https://fei-hdu.github.io/ca-gan/)] ~ [[paper_arxiv](https://arxiv.org/abs/1712.00899)] ~ [[paper_ieee](https://ieeexplore.ieee.org/abstract/document/9025751)]
+
+- Hanliang Jiang, Fuhao Shen, **Fei Gao**\*, Weidong Han. **Learning Efficient, Explainable and Discriminative Representations for Pulmonary Nodules Classification**. *Pattern Recognition*, 113: 107825, 2021. [[paper@PR\]](https://www.sciencedirect.com/science/article/pii/S0031320321000121) ~ [[paper@arxiv]](https://arxiv.org/abs/2101.07429) ~ [[project]](https://github.com/fei-hdu/NAS-Lung) (Corresponding Author)
+
+- **Fei Gao**, Jingjie Zhu, Zeyuan Yu, Peng Li, Tao Wang, "**Making Robots Draw A Vivid Portrait In Two Minutes**," in *the Proceedings of the 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems* (IROS 2020), pp. 9585-9591, Las Vegas, USA, 2020. [[paper_iros]](https://ras.papercept.net/proceedings/IROS20/1854.pdf) ~ [[paper_ariv]](https://arxiv.org/abs/2005.05526) ~ [[project]](https://ricelll.github.io/AiSketcher/)
+  
+  > - [**AiSketcher**](https://ricelll.github.io/AiSketcher/): **Portrait Drawing Robot**.    (`妙绘艺术`微信小程序可试用)
+
+- Lin Zhao, Meimei Shang, **Fei Gao**\*, et al. "**Representation Learning of Image Composition for Aesthetic Prediction**," *Computer Vision and Image Understanding* (CVIU), vol. 199, 103024, Oct. 2020. [[project]](https://github.com/fei-hdu/ReLIC)~[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300801)
+
+- 黄菲, **高飞**, 朱静洁, 戴玲娜, 俞俊. **基于生成对抗网络的异质人脸图像合成: 进展与挑战**[J]. 南京信息工程大学学报, 2019, 11(6): 660~681. [[paper](http://nxdxb.cnjournals.org/ch/reader/view_abstract.aspx?file_no=20190604&flag=1)]
+  
+  > Fei Huang, **Fei Gao**, et al. **Heterogeneous face synthesis via generative adversarial networks: progresses and challenges**. Journal of Nanjing University of Information Science and Technology (Natural Science Edition), 2019, 11(6): 660-681. (In Chinese)
+
+- **Fei Gao**, Shengjie Shi, et al., "**Improving Facial Attractiveness Prediction via Co-attention Learning**," 2019 *IEEE International Conference on Acoustics, Speech and Signal Processing* (ICASSP), pp. 4045-4049, 12-17 May 2019. [[paper]](https://xplorestaging.ieee.org/document/8683112?denied=)~[[project]](https://github.com/fei-hdu/FaceAttract)
+
+- **Fei Gao**, Jun Yu, Suguo Zhu, Qingming Huang, Qi Tian, "**Blind Image Quality Prediction by Exploiting Multi-level Deep Representations**," *Pattern Recognition*, vol 81, pp. 432-442, Sep. 2018. [[paper](https://www.sciencedirect.com/science/article/pii/S003132031830150X)]
+
+- **Fei Gao**, Yi Wang, Panpeng Li, et al., "**DeepSim: Deep similarity for image quality assessment**," *Neurocomputing*, vol. 157, pp. 104-114, 2017. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231217301480)]~[[project](https://github.com/fei-hdu/deepsim)]
+
+- **Fei Gao** and Jun Yu, "**Biologically inspired image quality assessment**," *Signal Processing*, vol. 124, pp. 210-219, 2016. [[paper](https://www.sciencedirect.com/science/article/pii/S0165168415002856)] ~ [[project](http://mil.hdu.edu.cn/people/fei_gao/code/FR_BIFS.zip)]
+
+- **Fei Gao**, Dacheng Tao, Xinbo Gao, and Xuelong Li, "**Learning to rank for blind image quality assessment**," *IEEE Transactions on Neural Networks and Learning Systems*, vol. 26, no. 10, pp. 2275-2290, Oct. 2015. 
+
+- Xinbo Gao, **Fei Gao**, Dacheng Tao, and Xuelong Li, "**Universal blind image quality assessment metrics via natural scene statistics and multiple kernel learning**," *IEEE Transactions on Neural Networks and Learning Systems*, vol. 24, no. 12, pp. 2013-2026, 2013. 
