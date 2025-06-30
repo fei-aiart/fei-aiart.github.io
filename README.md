@@ -11,22 +11,27 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 He mainly applies machine learning techniques to computer vision problems. His research interests include **visual quality assessment and enhancement, intelligent visual arts generation, biomedical image analysis,** etc. His research results have expounded in more than 30 publications at prestigious journals and conferences. He serverd for a number of journals and conferences.
 
-> **高飞** ，西安电子科技大学杭州研究院，副研究员（湘湖菁英教授）。2015年于西安电子科技大学获得信息与通信工程专业博士学位（导师：高新波 教授）；期间，于澳大利亚悉尼科技大学进行博士联合培养1年（导师：陶大程 教授）。曾任职于杭州电子科技大学计算机学院、浙江省北大信息技术高等研究院。主要研究兴趣包括视觉质量感知、智能内容生成（AIGC）、图像语义分析、绘画机器人、医疗影像分析、工业异常检测等课题。发表IEEE TNNLS、TCyber、TIP、CVPR、ICCV、ACM MM、AAAI、IJCAI、ICRA、IROS等期刊/会议论文30余篇，ESI高被引论文1篇。获得陕西省科学技术奖一等奖、IEEE ICME’21最佳展示奖亚军、全国博士后创新创业大赛铜奖等。主持国家自然科学基金面上项目、青年项目及浙江省自然科学基金青年项目，并参与多项科研课题。目前担任浙江省抗癌协会人工智能肿瘤诊疗专委会委员，及IEEE TIP, TMM, CVPR, ICCV等国际期刊和会议的审稿人。
+> **高飞** ，副研究员（湘湖菁英教授）, 入选省青年人才计划，西安电子科技大学杭州研究院。2015年于西安电子科技大学获得信息与通信工程专业博士学位（导师：高新波 教授）；期间，于澳大利亚悉尼科技大学进行博士联合培养1年（导师：陶大程 教授）。曾任职于杭州电子科技大学计算机学院、浙江省北大信息技术高等研究院。主要研究兴趣包括视觉质量感知、智能内容生成（AIGC）、图像语义分析、绘画机器人、医疗影像分析、工业异常检测等课题。发表IEEE TNNLS、TCyber、TIP、CVPR、ICCV、ACM MM、AAAI、IJCAI、ICRA、IROS等期刊/会议论文30余篇，ESI高被引论文1篇。获得陕西省科学技术奖一等奖、IEEE ICME’21最佳展示奖亚军、全国博士后创新创业大赛铜奖等。主持国家自然科学基金面上项目、青年项目及浙江省自然科学基金青年项目，并参与多项科研课题。目前担任浙江省抗癌协会人工智能肿瘤诊疗专委会委员，及IEEE TIP, TMM, CVPR, ICCV等国际期刊和会议的审稿人。
 
-[[Github]](https://github.com/fei-aiart)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)   [[DBLP]](https://dblp.org/pid/16/722-6)  [[课程 Courses]](https://github.com/fei-aiart/courses)
+[[主页@西电]](https://faculty.xidian.edu.cn/f_gao/zh_CN/index.htm) [[Github]](https://github.com/fei-aiart)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)   [[DBLP]](https://dblp.org/pid/16/722-6)  [[课程 Courses]](https://github.com/fei-aiart/courses)
 
 
 ## 论文 Selected Publications
 
-- **Fei Gao**, Ying Zhou, Ziyun Li, Wenwang Han, Jiaqi Shi, Maoying Qiao, Jinlan Xu, Nannan Wang*. **QuARF: Quality-Adaptive Receptive Fields for Degraded Image Perception**. The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), Accepted, Feb. 25 – Mar. 4, 2025, Philadelphia, Pennsylvania, USA, 2025. [Paper] ~ [[Github]](https://github.com/AiArt-Gao/QuARF)
 
-- Mingjin Zhang, Wenteng Shang, **Fei Gao** \*, Qiming Zhang, FengQin Lu, Jing Zhang, **Semi-supervised Infrared Small Target Detection with Thermodynamic-Inspired Uneven Perturbation and Confidence Adaptation**. The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), Accepted, 2025. （通信作者）
+- Lanning Zhang\*, Ying Zhou\*, **Fei Gao** \*\*, Ziyun Li, Maoying Qiao, Jinlan Xu, Nannan Wang. **Q-Norm: Robust Representation Learning via Quality-Adaptive Normalization**. International Conference on Computer Vision (ICCV), Accepted, Oct 19 – 23th, 2025, Honolulu, Hawai'i, USA. (\* Equal Contributions, \*\* Corresponding Author) [Paper] ~ [[Github]](https://github.com/IIP-Lab-XDU/Q-Norm)
 
-- Mingjin Zhang, Yuanjun Ouyang, **Fei Gao**, Jie Guo, Qiming Zhang*, Jing Zhang, **MOCID: Motion Context and Displacement Information Learning for Moving Infrared Small Target Detection**. The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), Accepted, 2025.
-
-- Mingjin Zhang, Xiaolong Li, **Fei Gao**, Jie Guo, **IRMamba: Pixel Difference Mamba with Layer Restoration for Infrared Small Target Detection**. The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), Accepted, 2025.
+- Mingjin Zhang, Xiaolong Li, **Fei Gao**, Jie Guo, Xinbo Gao, Jing Zhang. **SAIST: Segment Any Infrared Small Target Model Guided by Contrastive Language-Image Pretraining**. Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR), 9549-9558, 2025. 
   
-- Yuxin Fei, Jinlan Xu, Maoying Qiao, **Fei Gao**\*, **MAJoR: Visual Emotion Analysis via Multi-Attribute Joint Reasoning**, ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Accepted, 2025. [[Github]](https://github.com/AiArt-Gao/MAJoR)
+- **Fei Gao**, Ying Zhou, Ziyun Li, Wenwang Han, Jiaqi Shi, Maoying Qiao, Jinlan Xu, Nannan Wang*. **QuARF: Quality-Adaptive Receptive Fields for Degraded Image Perception**. The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 39(16): 16708-16716, Feb. 25 – Mar. 4, 2025, Philadelphia, Pennsylvania, USA, 2025. [Paper] ~ [[Github]](https://github.com/AiArt-Gao/QuARF)
+
+- Mingjin Zhang, Wenteng Shang, **Fei Gao** \*, Qiming Zhang, FengQin Lu, Jing Zhang, **Semi-supervised Infrared Small Target Detection with Thermodynamic-Inspired Uneven Perturbation and Confidence Adaptation**. The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 39(10): 10013-10021, 2025. （通信作者）
+
+- Mingjin Zhang, Yuanjun Ouyang, **Fei Gao**, Jie Guo, Qiming Zhang*, Jing Zhang, **MOCID: Motion Context and Displacement Information Learning for Moving Infrared Small Target Detection**. The 39th Annual AAAI Conference on Artificial Intelligence (AAAI),  39(10): 10022-10030, 2025.
+
+- Mingjin Zhang, Xiaolong Li, **Fei Gao**, Jie Guo, **IRMamba: Pixel Difference Mamba with Layer Restoration for Infrared Small Target Detection**. The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), , 39(9): 10003-10011, 2025.
+  
+- Yuxin Fei, Jinlan Xu, Maoying Qiao, **Fei Gao**\*, **MAJoR: Visual Emotion Analysis via Multi-Attribute Joint Reasoning**, ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 1-5, 2025. [[Github]](https://github.com/AiArt-Gao/MAJoR)
 
 - **Fei Gao**, Yuhao Lin, Jiaqi Shi, Maoying Qiao, Nannan Wang*. **AesMamba: Universal Image Aesthetic Assessment with State Space Models**. The 32nd ACM Multimedia Conference (ACM MM), 7444-7453, 2024 (Oral). [Paper@OpenReview](https://openreview.net/forum?id=obaazx0Hbz) ~ [Paper@ACMMM](https://dl.acm.org/doi/abs/10.1145/3664647.3681011) ~ [[Github]](https://github.com/AiArt-Gao/AesMamba)
 
