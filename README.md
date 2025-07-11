@@ -20,7 +20,7 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
 - Yongjie Hu\*, Yifan Jiang\*, Ziyun Li, Fei Gao $^\dagger$, Henrik Boström, Nannan Wang $^\dagger$, CADQ: Attribute-Consistent Face Cartoonization with Cross-modal Aligned and Deformable Quantization, the 33rd ACM International Conference on Multimedia, Accepted, Oct 19 – 23th, 2025, Honolulu, Hawai'i, USA. (\* Equal Contributions, $^\dagger$ Corresponding Authors) [Paper] ~ [[Github]](https://github.com/IIP-Lab-XDU/CADQ)
 
-- Lanning Zhang\*, Ying Zhou\*, **Fei Gao** $^\dagger$, Ziyun Li, Maoying Qiao, Jinlan Xu, Nannan Wang $^\dagger$ . **Q-Norm: Robust Representation Learning via Quality-Adaptive Normalization**. International Conference on Computer Vision (ICCV), Accepted, Oct 19 – 23th, 2025, Honolulu, Hawai'i, USA. (\* Equal Contributions, $^\dagger$Corresponding Authors) [Paper] ~ [[Github]](https://github.com/IIP-Lab-XDU/Q-Norm)
+- Lanning Zhang\*, Ying Zhou\*, **Fei Gao** $^\dagger$, Ziyun Li, Maoying Qiao, Jinlan Xu, Nannan Wang $^\dagger$ . **Q-Norm: Robust Representation Learning via Quality-Adaptive Normalization**. International Conference on Computer Vision (ICCV), Accepted, Oct 19 – 23th, 2025, Honolulu, Hawai'i, USA. (\* Equal Contributions, $^\dagger$ Corresponding Authors) [Paper] ~ [[Github]](https://github.com/IIP-Lab-XDU/Q-Norm)
 
 - Mingjin Zhang, Xiaolong Li, **Fei Gao**, Jie Guo, Xinbo Gao, Jing Zhang. **SAIST: Segment Any Infrared Small Target Model Guided by Contrastive Language-Image Pretraining**. Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR), 9549-9558, 2025. 
   
