@@ -13,7 +13,7 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
 > - 副研究员/湘湖菁英教授，西安电子科技大学杭州研究院
 > - 入选浙江省万人计划青年科技人才（2024）
-> - 第一届浙江省抗癌协会人工智能肿瘤诊疗专委会委员
+> - 浙江省抗癌协会人工智能肿瘤诊疗专委会委员
 > 
 > - 2015年于西安电子科技大学获得信息与通信工程专业博士学位（导师：高新波 教授）
 > - 2012-2013年于澳大利亚悉尼科技大学进行博士联合培养（导师：陶大程 教授）
@@ -29,7 +29,7 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
 ## 论文 Selected Publications
 
-- Yongjie Hu\*, Yifan Jiang\*, Ziyun Li, Fei Gao $^\dagger$, Henrik Boström, Nannan Wang $^\dagger$, CADQ: Attribute-Consistent Face Cartoonization with Cross-modal Aligned and Deformable Quantization, the 33rd ACM International Conference on Multimedia, Accepted, Oct 19 – 23th, 2025, Honolulu, Hawai'i, USA. (\* Equal Contributions, $^\dagger$ Corresponding Authors) [Paper] ~ [[Github]](https://github.com/IIP-Lab-XDU/CADQ)
+- Yongjie Hu\*, Yifan Jiang\*, Ziyun Li, Fei Gao $^\dagger$, Henrik Boström, Nannan Wang $^\dagger$, **CADQ: Attribute-Consistent Face Cartoonization with Cross-modal Aligned and Deformable Quantization**, the 33rd ACM International Conference on Multimedia, Accepted, Oct 19 – 23th, 2025, Honolulu, Hawai'i, USA. (\* Equal Contributions, $^\dagger$ Corresponding Authors) [Paper] ~ [[Github]](https://github.com/IIP-Lab-XDU/CADQ)
 
 - Lanning Zhang\*, Ying Zhou\*, **Fei Gao** $^\dagger$, Ziyun Li, Maoying Qiao, Jinlan Xu, Nannan Wang $^\dagger$ . **Q-Norm: Robust Representation Learning via Quality-Adaptive Normalization**. International Conference on Computer Vision (ICCV), Accepted, Oct 19 – 23th, 2025, Honolulu, Hawai'i, USA. (\* Equal Contributions, $^\dagger$ Corresponding Authors) [Paper] ~ [[Github]](https://github.com/IIP-Lab-XDU/Q-Norm)
 
@@ -41,7 +41,7 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
 - Mingjin Zhang, Yuanjun Ouyang, **Fei Gao**, Jie Guo, Qiming Zhang $^\dagger$, Jing Zhang, **MOCID: Motion Context and Displacement Information Learning for Moving Infrared Small Target Detection**. The 39th Annual AAAI Conference on Artificial Intelligence (AAAI),  39(10): 10022-10030, 2025.
 
-- Mingjin Zhang, Xiaolong Li, **Fei Gao**, Jie Guo, **IRMamba: Pixel Difference Mamba with Layer Restoration for Infrared Small Target Detection**. The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), , 39(9): 10003-10011, 2025.
+- Mingjin Zhang, Xiaolong Li, **Fei Gao**, Jie Guo, **IRMamba: Pixel Difference Mamba with Layer Restoration for Infrared Small Target Detection**. The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 39(9): 10003-10011, 2025.
   
 - Yuxin Fei, Jinlan Xu, Maoying Qiao, **Fei Gao** $^\dagger$, **MAJoR: Visual Emotion Analysis via Multi-Attribute Joint Reasoning**, ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 1-5, 2025. [[Github]](https://github.com/AiArt-Gao/MAJoR)
 
