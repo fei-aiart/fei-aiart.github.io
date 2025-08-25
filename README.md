@@ -20,7 +20,7 @@ He mainly applies machine learning techniques to computer vision problems. His r
 > 
 > - 主要研究兴趣包括视觉内容分析与生成、医疗影像分析、工业异常检测等课题。
 > - 发表IEEE Transactions.、CVPR、ICCV、ACM MM、AAAI、ICRA等期刊/会议论文50余篇。担任多个期刊/会议的审稿人。
-> - 获得陕西省科学技术奖一等奖、IEEE ICME’21最佳展示奖亚军、全国博士后创新创业大赛铜奖等。
+> - 获得陕西省科学技术奖一等奖、ACM MM微动作识别挑战赛全球第四名、IEEE ICME’21最佳展示奖亚军、全国博士后创新创业大赛铜奖等。
 > - 主持及参与国家自然科学基金及浙江省自然科学基金等多项科研课题。
 
 
