@@ -19,7 +19,11 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
 ## 论文 Selected Publications
 
-- Yongjie Hu\*, Yifan Jiang\*, Ziyun Li, Fei Gao $^\dagger$, Henrik Boström, Nannan Wang $^\dagger$, **CADQ: Attribute-Consistent Face Cartoonization with Cross-modal Aligned and Deformable Quantization**, the 33rd ACM International Conference on Multimedia, Accepted, Oct 19 – 23th, 2025, Honolulu, Hawai'i, USA. (\* Equal Contributions, $^\dagger$ Corresponding Authors) [Paper] ~ [[Github]](https://github.com/IIP-Lab-XDU/CADQ)
+- Xi Yang, Haoyuan Shi, Ziyun Li, Maoying Qiao, **Fei Gao** $^\dagger$, Nannan Wang, S3OIL: Semi-Supervised SAR-to-Optical Image Translation via Multi-Scale and Cross-Set Matching, IEEE Transactions on Image Processing, 07 October 2025. ($^\dagger$ Corresponding Authors) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11196005) ~ [Github]
+
+- Zikang Chen, **Fei Gao**, Ziya Yu, Peng Li, KAN Policy: Learning Efficient and Smooth Robotic Trajectories via Kolmogorov-Arnold Networks, IEEE Robotics and Automation Letters, 11164 - 11171, 04 September 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11151197) ~ [Github]
+
+- Yongjie Hu\*, Yifan Jiang\*, Ziyun Li, **Fei Gao** $^\dagger$, Henrik Boström, Nannan Wang $^\dagger$, **CADQ: Attribute-Consistent Face Cartoonization with Cross-modal Aligned and Deformable Quantization**, the 33rd ACM International Conference on Multimedia, Accepted, Oct 19 – 23th, 2025, Honolulu, Hawai'i, USA. (\* Equal Contributions, $^\dagger$ Corresponding Authors) [Paper] ~ [[Github]](https://github.com/IIP-Lab-XDU/CADQ)
 
 - Lanning Zhang\*, Ying Zhou\*, **Fei Gao** $^\dagger$, Ziyun Li, Maoying Qiao, Jinlan Xu, Nannan Wang $^\dagger$ . **Q-Norm: Robust Representation Learning via Quality-Adaptive Normalization**. International Conference on Computer Vision (ICCV), Accepted, Oct 19 – 23th, 2025, Honolulu, Hawai'i, USA. (\* Equal Contributions, $^\dagger$ Corresponding Authors) [Paper] ~ [[Github]](https://github.com/IIP-Lab-XDU/Q-Norm)
 
