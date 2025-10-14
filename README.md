@@ -11,17 +11,7 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 He mainly applies machine learning techniques to computer vision problems. His research interests include **visual quality assessment and enhancement, intelligent visual arts generation, biomedical image analysis,** etc. His research results have expounded in more than 30 publications at prestigious journals and conferences. He serverd for a number of journals and conferences.
 
-> - 副研究员/湘湖菁英教授，西安电子科技大学杭州研究院
-> - 入选浙江省万人计划青年科技人才（2024）
-> - 浙江省抗癌协会人工智能肿瘤诊疗专委会委员
-> 
-> - 2015年于西安电子科技大学获得信息与通信工程专业博士学位（导师：高新波 教授）
-> - 2012-2013年于澳大利亚悉尼科技大学进行博士联合培养（导师：陶大程 教授）
-> 
-> - 主要研究兴趣包括视觉内容分析与生成、医疗影像分析、工业异常检测等课题。
-> - 发表IEEE Transactions.、CVPR、ICCV、ACM MM、AAAI、ICRA等期刊/会议论文50余篇。担任多个期刊/会议的审稿人。
-> - 获得陕西省科学技术奖一等奖、ACM MM微动作识别挑战赛全球第四名、IEEE ICME’21最佳展示奖亚军、全国博士后创新创业大赛铜奖等。
-> - 主持及参与国家自然科学基金及浙江省自然科学基金等多项科研课题。
+> 高飞，西安电子科技大学杭州研究院，副研究员，浙江省万人计划科技青年人才。于2015年获得西安电子科技大学博士学位（导师：高新波 教授），并曾于澳大利亚悉尼科技大学进行博士联合培养（导师：陶大程 教授）。长期从事计算机视觉方面的研究工作，主要研究兴趣包括：视觉质量评价与增强、视觉内容分析与生成、绘画机器人等。在IEEE TNNLS、TCyber、TIP、CVPR、ICCV、ACM MM、AAAI、IJCAI、ICRA等期刊和会议上发表论文50余篇，ESI高被引论文1篇。获得陕西省科学技术奖一等奖、IEEE ICME’21最佳展示奖亚军、全国博士后创新创业大赛铜奖、ACM MM微动作识别挑战赛全球第四名等。主持国家自然科学基金面上项目、青年项目等纵向课题，并参与多项科研课题。目前担任浙江省抗癌协会人工智能肿瘤诊疗专委会委员，及多个国际期刊和会议的审稿人/程序委员会委员。
 
 
 [[主页@西电]](https://faculty.xidian.edu.cn/fei_gao/zh_CN/index.htm) [[Github]](https://github.com/fei-aiart)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)   [[DBLP]](https://dblp.org/pid/16/722-6)  [[课程 Courses]](https://github.com/fei-aiart/courses)
