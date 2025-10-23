@@ -19,7 +19,7 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
 ## 论文 Selected Publications
 
-- Xi Yang, Haoyuan Shi, Ziyun Li, Maoying Qiao, **Fei Gao** $^\dagger$, Nannan Wang, **S3OIL**: Semi-Supervised SAR-to-Optical Image Translation via Multi-Scale and Cross-Set Matching, IEEE Transactions on Image Processing, 07 October 2025. ($^\dagger$ Corresponding Author) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11196005) ~ [Github]
+- Xi Yang, Haoyuan Shi, Ziyun Li, Maoying Qiao, **Fei Gao** $^\dagger$, Nannan Wang, **S3OIL**: Semi-Supervised SAR-to-Optical Image Translation via Multi-Scale and Cross-Set Matching, IEEE Transactions on Image Processing, 6641-6654, 07 October 2025. ($^\dagger$ Corresponding Author) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11196005) ~ [Github]
 
 - Zikang Chen, **Fei Gao**, Ziya Yu, Peng Li, **KAN Policy**: Learning Efficient and Smooth Robotic Trajectories via Kolmogorov-Arnold Networks, IEEE Robotics and Automation Letters, 11164 - 11171, 04 September 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11151197) ~ [Github]
 
