@@ -14,7 +14,7 @@ He mainly applies machine learning techniques to computer vision problems. His r
 > 高飞，西安电子科技大学杭州研究院，副研究员，浙江省万人计划科技青年人才。于2015年获得西安电子科技大学博士学位（导师：高新波 教授），并曾于澳大利亚悉尼科技大学进行博士联合培养（导师：陶大程 教授）。长期从事计算机视觉方面的研究工作，主要研究兴趣包括：质量评价、语义分析、生成模型、绘画机器人等。在IEEE TNNLS、TIP、CVPR、ICCV、ICRA等期刊和会议上发表论文50余篇。获得陕西省科学技术奖一等奖、IEEE ICME’21最佳展示奖亚军、全国博士后创新创业大赛铜奖、ACM MM‘24’微动作识别挑战赛全球第四名等。主持国家自然科学基金面上项目、青年项目等纵向课题，并参与多项科研课题。目前担任浙江省抗癌协会人工智能肿瘤诊疗专委会委员，及多个国际期刊和会议的审稿人/程序委员会委员。
 
 
-[[主页@西电]](https://faculty.xidian.edu.cn/fei_gao/zh_CN/index.htm) [[Github]](https://github.com/fei-aiart)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)   [[DBLP]](https://dblp.org/pid/16/722-6)  [[课程 Courses]](https://github.com/fei-aiart/courses)
+[[主页@西电]](https://faculty.xidian.edu.cn/fei_gao/zh_CN/index.htm) [[Github]](https://github.com/fei-aiart)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)   [[DBLP]](https://dblp.org/pid/16/722-6)  [[ORCID]](https://orcid.org/0000-0002-8714-0975) [[课程 Courses]](https://github.com/fei-aiart/courses)
 
 
 ## 论文 Selected Publications
