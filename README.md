@@ -11,7 +11,14 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 He mainly applies machine learning techniques to computer vision problems. His research interests include **quality assessment, semantic analysis, generative models, biomedical image analysis,** etc. His research results have expounded in more than 50 publications at prestigious journals and conferences. He serverd for a number of journals and conferences.
 
-> 高飞，西安电子科技大学杭州研究院，副研究员，浙江省万人计划科技青年人才。于2015年获得西安电子科技大学博士学位（导师：高新波 教授），并曾于澳大利亚悉尼科技大学进行博士联合培养（导师：陶大程 教授）。长期从事计算机视觉方面的研究工作，主要研究兴趣包括：质量评价、语义分析、生成模型、绘画机器人等。在IEEE TNNLS、TIP、CVPR、ICCV、ICRA等期刊和会议上发表论文50余篇。获得陕西省科学技术奖一等奖、IEEE ICME’21最佳展示奖亚军、全国博士后创新创业大赛铜奖、ACM MM‘24’微动作识别挑战赛全球第四名等。主持国家自然科学基金面上项目、青年项目等纵向课题，并参与多项科研课题。目前担任浙江省抗癌协会人工智能肿瘤诊疗专委会委员，及多个国际期刊和会议的审稿人/程序委员会委员。
+> 高飞，西安电子科技大学杭州研究院，副研究员，入选省级青年人才计划。于2015年获得西安电子科技大学博士学位，并曾于澳大利亚悉尼科技大学进行博士联合培养。长期从事计算机视觉方面的研究工作，主要研究兴趣包括：质量评价、语义分析、生成模型、绘画机器人等。在IEEE TNNLS、TIP、CVPR、ICCV、ICRA等期刊和会议上发表论文50余篇。获得陕西省科学技术奖一等奖、IEEE ICME’21最佳展示奖亚军、全国博士后创新创业大赛铜奖、ACM MM‘24’微动作识别挑战赛全球第四名等。主持国家自然科学基金面上项目、青年项目等纵向课题，并参与多项科研课题。目前担任浙江省抗癌协会人工智能肿瘤诊疗专委会委员，及多个国际期刊和会议的审稿人/程序委员会委员。
+> 
+> 招生信息：
+> - 团队于杭研院每年招生 3-5名硕士，欢迎保研、考研的学生积极申报！
+> - 招生专业：02 长三角基地专项 (全日制)
+>     - 电子信息-通信工程（含宽带网络、移动通信等）【方向代码：29】
+>     - 电子信息-计算机技术【方向代码：101】
+> - 说明：个人简历、成绩单等整合为1个PDF作为附件，命名为“姓名-分数-学校”
 
 
 [[主页@西电]](https://faculty.xidian.edu.cn/fei_gao/zh_CN/index.htm) [[Github]](https://github.com/fei-aiart)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)   [[DBLP]](https://dblp.org/pid/16/722-6)  [[ORCID]](https://orcid.org/0000-0002-8714-0975) [[课程 Courses]](https://github.com/fei-aiart/courses)
