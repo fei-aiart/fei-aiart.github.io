@@ -18,8 +18,9 @@ He mainly applies machine learning techniques to computer vision problems. His r
 > - 招生专业：通信工程、计算机技术
 > - 说明：个人简历、成绩单等整合为1个PDF作为附件，命名为“姓名-分数-学校”
 > - 偏好：
->   - （自学成才）自学过深度学习或AI相关技术、读论文、跑实验；
->   - （软硬通吃）在软硬件方面都具备较好的动手能力。
+>   - （品行良好）
+>   - （主动性强）自学过深度学习或AI相关技术、读论文、跑实验；
+>   - （动手能力）在软/硬件方面具备较好的动手能力。
 
 
 [[主页@西电]](https://faculty.xidian.edu.cn/fei_gao/zh_CN/index.htm) [[Github]](https://github.com/fei-aiart)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)   [[DBLP]](https://dblp.org/pid/16/722-6)  [[ORCID]](https://orcid.org/0000-0002-8714-0975) [[课程 Courses]](https://github.com/fei-aiart/courses)
