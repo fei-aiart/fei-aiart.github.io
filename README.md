@@ -57,7 +57,7 @@ Good times, hard times, but never bad times. —— Steve Jobs
 - [**ThermalDiffusion**] Mingjin Zhang, FengQin Lu, Jingyuan Gao, Fei Gao, Qiming Zhang, *ThermalDiffusion: Confidence-Aware Diffusion for Sparse-View Thermal Infrared Novel View Synthesis.* **ACM MM**, 2026.
 - [**HiSAC**] Jiangpeng Wang, Fei Gao\*, Nannan Wang. *Hierarchical Style Aggregation for Versatile Chinese Handwriting Generation.* **ECCV**, 2026.~ [[Github]](https://github.com/IIP-Lab-XDU/HiSAC)
 - [**AdaNoise**] Xi Yang, Haoyuan Shi, Fei Gao\*, Nannan Wang. *AdaNoise: Cycle-Consistent Image Translation with Domain-Adaptive Noise Perturbation.* **IEEE TCSVT**, 2026.
-- Ziyun Li, Huancheng Hu, Soon Hoe Lim, Xuyu Li, Fei Gao, Enmao Diao, Zezhen Ding, Michalis Vazirgiannis, Henrik Boström, *A Kinetic Energy Perspective of Flow Matching* **ICML (spotlight)**, 2026.
+- [**KPE**] Ziyun Li, Huancheng Hu, Soon Hoe Lim, Xuyu Li, Fei Gao, Enmao Diao, Zezhen Ding, Michalis Vazirgiannis, Henrik Boström, *A Kinetic Energy Perspective of Flow Matching.* **ICML (spotlight)**, 2026.
 - [**PSMix**] Xin Wei, Qin Yang, Hongji Zhao, Fei Gao, Mingrui Zhu, Nannan Wang, Xinbo Gao, PSMix: Robust Point Cloud Recognition through Spectral Domain Mixing.* **ICML**, 2026.
 
 ---
