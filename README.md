@@ -3,6 +3,10 @@ Good times, hard times, but never bad times. —— Steve Jobs
 Fei Gao, Xidian Hangzhou
 -->
 
+
+[![English](https://img.shields.io/badge/English-2b6cb0?style=flat-square)](./README.md) [![中文](https://img.shields.io/badge/中文-2b6cb0?style=flat-square)](./index-cn.md)
+
+
 ## Biography
 
 Fei Gao is currently an Xianghu Elite Professor at the [Hangzhou Institute of Technology](http://hz.xidian.edu.cn/), [Xidian University](http://www.xidian.edu.cn/). He received his Ph.D. degree from Xidian University in 2015, and was a joint Ph.D. candidate at the University of Technology Sydney (UTS), Australia. His research focuses on computer vision, with over 50 publications in prestigious journals and conferences including **IEEE TNNLS**, **TIP**, **CVPR**, **ICCV**, **ACM MM**, and **ICRA**. He has led multiple research projects including the National Natural Science Foundation of China, and has received the First Prize of the Shaanxi Provincial Science and Technology Award and the Runner-up of the IEEE ICME'21 Best Demo Award.
@@ -22,8 +26,6 @@ Fei Gao is currently an Xianghu Elite Professor at the [Hangzhou Institute of Te
 - **🏥 Biomedical Image Analysis**: Lung cancer, breast cancer, fundus images, cerebrovascular, brain tumors
 - **🤖 Embodied AI**: Painting robots, quadruped robots, humanoid robots (VLM / VLA technologies)
 
-
-[![English](https://img.shields.io/badge/English-2b6cb0?style=flat-square)](./index.md) [![中文](https://img.shields.io/badge/中文-2b6cb0?style=flat-square)](./index-cn.md)
 
 
 ## Selected Publications
