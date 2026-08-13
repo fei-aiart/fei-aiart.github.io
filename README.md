@@ -83,13 +83,10 @@ Good times, hard times, but never bad times. —— Steve Jobs
 - [**HIDA**] Fei Gao, Yifan Zhu, Chang Jiang, Nannan Wang. *Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation.* **ICCV**, 7237-7247, 2023. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Gao_Human-Inspired_Facial_Sketch_Synthesis_with_Dynamic_Adaptation_ICCV_2023_paper.html) ~ [[Github]](https://github.com/AiArt-Gao/HIDA)
 - [**HIRCA**] Fei Gao, Lingna Dai, Jingjie Zhu, Mei Du, Yiyuan Zhang, Maoying Qiao, Chenghao Xia, Nannan Wang, Peng Li*. *Human-Robot Interactive Creation of Artistic Portrait Drawings.* **ICRA**, 11297-11304, May 2024. (* Corresponding Author) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10611451/) ~ [Github](https://github.com/fei-aiart/HRICA)
 
-### 2023
+### 2023及之前
 
 - [**SAGE**] Biao Ma, Fei Gao\*, Chang Jiang, Nannan Wang, Gang Xu. *Semantic-aware Generation of Multi-view Portrait Drawings.* **IJCAI**, 1258-1266, 2023. [[Paper_arXiv]](https://arxiv.org/abs/2305.02618) ~ [[Github]](https://github.com/AiArt-Gao/SAGE) ~ [[Project]](https://vmaibex.github.io/)
 - [**MATEIT**] Chang Jiang, Fei Gao\*, Biao Ma, Yuhao Lin, Nannan Wang, Gang Xu. *Masked and Adaptive Transformer for Exemplar Based Image Translation.* **CVPR**, 22418-22427, 2023. [[Paper_CVPR]](https://openaccess.thecvf.com/content/CVPR2023/html/Jiang_Masked_and_Adaptive_Transformer_for_Exemplar_Based_Image_Translation_CVPR_2023_paper.html) ~ [[Paper_arXiv]](https://arxiv.org/abs/2303.17123) ~ [[Project]](https://github.com/AiArt-Gao/MATEBIT)
-
-### 2021-2013
-
 - [**CHAN**] Fei Gao, Xingxin Xu, Jun Yu, Meimei Shang, Xiang Li, Dacheng Tao. *Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation.* **IEEE TIP**, vol. 30, pp. 3487-3498, 2021. [[Paper_IEEE]](https://ieeexplore.ieee.org/document/9366371) ~ [[Project]](https://fei-hdu.github.io/chan/)
 - [**CA-GAN**] Jun Yu, Xingxin Xu, Fei Gao\*, Shengjie Shi, et al. *Towards Realistic Face Photo-Sketch Synthesis via Composition-Aided GANs.* **IEEE TCYB**, vol. 51, no. 9, pp. 4350-4362, 2021. [[Project]](https://fei-hdu.github.io/ca-gan/) ~ [[Paper_arXiv]](https://arxiv.org/abs/1712.00899) ~ [[Paper_IEEE]](https://ieeexplore.ieee.org/abstract/document/9025751)
 - [**NAS-Lung**] Hanliang Jiang, Fuhao Shen, Fei Gao\*, Weidong Han. *Learning Efficient, Explainable and Discriminative Representations for Pulmonary Nodules Classification.* **PR**, 113: 107825, 2021. [[Paper@PR]](https://www.sciencedirect.com/science/article/pii/S0031320321000121) ~ [[Paper@arXiv]](https://arxiv.org/abs/2101.07429) ~ [[Project]](https://github.com/fei-hdu/NAS-Lung) (Corresponding Author)
