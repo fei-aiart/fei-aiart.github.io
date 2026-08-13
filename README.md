@@ -1,44 +1,32 @@
 <!-- 
 Good times, hard times, but never bad times. —— Steve Jobs
-高飞，西电杭研院
+Fei Gao, Xidian Hangzhou
 -->
 
-# 高飞 Fei Gao
+## Biography
 
-**副研究员 | 硕士生导师**  
-[西安电子科技大学杭州研究院](http://hz.xidian.edu.cn/) · [智能信息处理实验室 (IIP Lab)](https://iip-xdu.github.io/)
+Fei Gao is currently an Xianghu Elite Professor at the [Hangzhou Institute of Technology](http://hz.xidian.edu.cn/), [Xidian University](http://www.xidian.edu.cn/). He received his Ph.D. degree from Xidian University in 2015, and was a joint Ph.D. candidate at the University of Technology Sydney (UTS), Australia. His research focuses on computer vision, with over 50 publications in prestigious journals and conferences including **IEEE TNNLS**, **TIP**, **CVPR**, **ICCV**, **ACM MM**, and **ICRA**. He has led multiple research projects including the National Natural Science Foundation of China, and has received the First Prize of the Shaanxi Provincial Science and Technology Award and the Runner-up of the IEEE ICME'21 Best Demo Award.
 
-[![主页](https://img.shields.io/badge/🏠_西电教师主页-blue?style=flat-square)](https://faculty.xidian.edu.cn/fei_gao/zh_CN/index.htm)
-[![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fei-aiart)
+[![Homepage](https://img.shields.io/badge/🏠_Xidian_Profile-blue?style=flat-square)](https://faculty.xidian.edu.cn/fei_gao/zh_CN/index.htm)
+[![Github](https://img.shields.io/badge/GitHub-2b6cb0?style=flat-square&logo=github&logoColor=white)](https://github.com/fei-aiart)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)
 [![DBLP](https://img.shields.io/badge/DBLP-004B87?style=flat-square&logo=dblp&logoColor=white)](https://dblp.org/pid/16/722-6)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8714-0975)
-[![课程](https://img.shields.io/badge/📚_课程_Courses-FF6F00?style=flat-square)](https://github.com/fei-aiart/courses)
+[![Courses](https://img.shields.io/badge/📚_Courses-FF6F00?style=flat-square)](https://github.com/fei-aiart/courses)
+[![IIP](https://img.shields.io/badge/🏠_IIP_Lab-blue?style=flat-square)](https://iip-xdu.github.io/)
 
-## 📝 个人简介
+## Research Interests
 
-高飞，西安电子科技大学杭州研究院副研究员，湘湖菁英教授，入选**浙江省万人计划青年科技人才**。2015年获西安电子科技大学博士学位，曾于澳大利亚悉尼科技大学进行博士联合培养。长期从事计算机视觉研究，在 **IEEE TNNLS**、**TIP**、**CVPR**、**ICCV**、**ACM MM**、**ICRA** 等期刊/会议发表论文50余篇。主持国家自然科学基金面上/青年项目等纵向课题，获陕西省科学技术奖一等奖、IEEE ICME'21最佳展示奖亚军、全国博士后创新创业大赛铜奖等。
+- **🎨 Visual Content Generation**: Cross-domain image synthesis, artistic style transfer, image inpainting/super-resolution, text-to-image generation
+- **🛡️ Robust Visual Analysis**: Quality assessment, image classification, object detection, semantic segmentation, cross-domain analysis
+- **🏥 Biomedical Image Analysis**: Lung cancer, breast cancer, fundus images, cerebrovascular, brain tumors
+- **🤖 Embodied AI**: Painting robots, quadruped robots, humanoid robots (VLM / VLA technologies)
 
-## 🔬 研究方向
 
-- **🎨 视觉内容生成**：跨域图像合成、艺术风格迁移、图像修复/超分、文字生成
-- **🛡️ 鲁棒视觉分析**：质量评价、图像分类、目标检测、语义分割、跨域分析
-- **🏥 医疗影像分析**：肺癌、乳腺癌、眼底图像、脑血管、脑瘤等
-- **🤖 具身智能**：绘画/四足/人形机器人（VLM / VLA技术）
+[![English](https://img.shields.io/badge/English-2b6cb0?style=flat-square)](./index.md) [![中文](https://img.shields.io/badge/中文-2b6cb0?style=flat-square)](./index-cn.md)
 
-## 🧑‍🎓 招生信息
 
-> **团队每年招收 3-5 名硕士**（通信工程 / 计算机技术），欢迎保研/考研同学申报！
-
-**📧 申请方式**  
-将个人简历 + 成绩单整合为 **1个PDF**，命名为 `姓名-学校.pdf`，发送至邮箱（请查阅主页）。
-
-**🎯 偏好**  
-- **品行良好** —— 正直、踏实、有团队精神  
-- **主动性强** —— 自学过深度学习/AI，能读论文、跑实验  
-- **动手能力** —— 在软/硬件方面有较好实践能力
-
-## 📄 代表性论文
+## Selected Publications
 
 ### 2026
 
@@ -88,13 +76,13 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 - **`MDVPose`** Renshu Gu, Jiajun Zhu, Yixuan Si, Fei Gao, Jiamin Xu, Gang Xu. *3D Human Pose Estimation from Multiple Dynamic Views via Single-view Pretraining with Procrustes Alignment.* **ACM MM**, 10363-10372, 2024.
 
-- Fan Gong, Jialiang Chen, Jiajun Zhu, Qijian Bao, Fei Gao, Renshu Gu, Gang Xu. *Micro-Action Recognition via Hierarchical Fusion and Inference.* （微动作识别挑战赛全球第四名）, **ACM MM**, 11327-11332, 2024.
+- Fan Gong, Jialiang Chen, Jiajun Zhu, Qijian Bao, Fei Gao, Renshu Gu, Gang Xu. *Micro-Action Recognition via Hierarchical Fusion and Inference.* （Micro-Action Recognition Challenge, Global 4th Place）, **ACM MM**, 11327-11332, 2024.
 
 - **`HIDA`** Fei Gao, Yifan Zhu, Chang Jiang, Nannan Wang. *Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation.* **ICCV**, 7237-7247, 2023. [![Paper](https://img.shields.io/badge/Paper-ICCV-00629b?style=flat-square)](https://openaccess.thecvf.com/content/ICCV2023/html/Gao_Human-Inspired_Facial_Sketch_Synthesis_with_Dynamic_Adaptation_ICCV_2023_paper.html) [![Code](https://img.shields.io/badge/Code-GitHub-2b6cb0?style=flat-square&logo=github&logoColor=white)](https://github.com/AiArt-Gao/HIDA)
 
 - **`HIRCA`** Fei Gao, Lingna Dai, Jingjie Zhu, Mei Du, Yiyuan Zhang, Maoying Qiao, Chenghao Xia, Nannan Wang, Peng Li\*. *Human-Robot Interactive Creation of Artistic Portrait Drawings.* **ICRA**, 11297-11304, May 2024. [![Paper](https://img.shields.io/badge/Paper-ICRA-00629b?style=flat-square)](https://ieeexplore.ieee.org/abstract/document/10611451) [![Code](https://img.shields.io/badge/Code-GitHub-2b6cb0?style=flat-square&logo=github&logoColor=white)](https://github.com/fei-aiart/HRICA)
 
-### 2023 及之前
+### 2023 and Before
 
 - **`SAGE`** Biao Ma, Fei Gao\*, Chang Jiang, Nannan Wang, Gang Xu. *Semantic-aware Generation of Multi-view Portrait Drawings.* **IJCAI**, 1258-1266, 2023. [![arXiv](https://img.shields.io/badge/arXiv-2305.02618-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2305.02618) [![Code](https://img.shields.io/badge/Code-GitHub-2b6cb0?style=flat-square&logo=github&logoColor=white)](https://github.com/AiArt-Gao/SAGE) [![Project](https://img.shields.io/badge/Project-Page-9B59B6?style=flat-square)](https://vmaibex.github.io/)
 
@@ -109,8 +97,6 @@ Good times, hard times, but never bad times. —— Steve Jobs
 - **`iSkecher`** Fei Gao, Jingjie Zhu, Zeyuan Yu, Peng Li, Tao Wang. *Making Robots Draw A Vivid Portrait In Two Minutes.* **IROS**, pp. 9585-9591, 2020. [![arXiv](https://img.shields.io/badge/arXiv-2005.05526-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2005.05526) [![Project](https://img.shields.io/badge/Project-Page-9B59B6?style=flat-square)](https://ricelll.github.io/AiSketcher/)
 
 - **`ReLIC`** Lin Zhao, Meimei Shang, Fei Gao\*, et al. *Representation Learning of Image Composition for Aesthetic Prediction.* **CVIU**, vol. 199, 103024, Oct. 2020. [![Paper](https://img.shields.io/badge/Paper-CVIU-00629b?style=flat-square)](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300801) [![Code](https://img.shields.io/badge/Code-GitHub-2b6cb0?style=flat-square&logo=github&logoColor=white)](https://github.com/fei-hdu/ReLIC)
-
-- 黄菲, 高飞\*, 朱静洁, 戴玲娜, 俞俊. *基于生成对抗网络的异质人脸图像合成: 进展与挑战.* 南京信息工程大学学报, 2019, 11(6): 660-681. [![Paper](https://img.shields.io/badge/Paper-CNKI-004B87?style=flat-square)](http://nxdxb.cnjournals.org/ch/reader/view_abstract.aspx?file_no=20190604&flag=1)
 
 - **`BLINDER`** Fei Gao, Jun Yu, Suguo Zhu, Qingming Huang, Qi Tian. *Blind Image Quality Prediction by Exploiting Multi-level Deep Representations.* **PR**, vol 81, pp. 432-442, Sep. 2018. [![Paper](https://img.shields.io/badge/Paper-PR-00629b?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S003132031830150X)
 
