@@ -3,32 +3,41 @@ Good times, hard times, but never bad times. —— Steve Jobs
 Fei Gao, Xidian Hangzhou
 -->
 
+## 个人简介 Biography
 
-[![English](https://img.shields.io/badge/English-2b6cb0?style=flat-square)](./README.md) [![中文](https://img.shields.io/badge/中文-2b6cb0?style=flat-square)](./index-cn.md)
+高飞，西安电子科技大学杭州研究院副研究员，湘湖菁英教授，入选**浙江省万人计划青年科技人才**。2015年获西安电子科技大学博士学位，曾于澳大利亚悉尼科技大学进行博士联合培养。长期从事计算机视觉研究，在 **IEEE TNNLS**、**TIP**、**CVPR**、**ICCV**、**ACM MM**、**ICRA** 等期刊/会议发表论文50余篇。主持国家自然科学基金面上/青年项目等纵向课题，获陕西省科学技术奖一等奖、IEEE ICME'21最佳展示奖亚军、全国博士后创新创业大赛铜奖等。
 
+> Fei Gao is currently an Xianghu Elite Professor at the [Hangzhou Institute of Technology](http://hz.xidian.edu.cn/), [Xidian University](http://www.xidian.edu.cn/). He received his Ph.D. degree from Xidian University in 2015, and was a joint Ph.D. candidate at the University of Technology Sydney (UTS), Australia. His research focuses on computer vision, with over 50 publications in prestigious journals and conferences including **IEEE TNNLS**, **TIP**, **CVPR**, **ICCV**, **ACM MM**, and **ICRA**. He has led multiple research projects including the National Natural Science Foundation of China, and has received the First Prize of the Shaanxi Provincial Science and Technology Award and the Runner-up of the IEEE ICME'21 Best Demo Award.
 
-## Biography
-
-Fei Gao is currently an Xianghu Elite Professor at the [Hangzhou Institute of Technology](http://hz.xidian.edu.cn/), [Xidian University](http://www.xidian.edu.cn/). He received his Ph.D. degree from Xidian University in 2015, and was a joint Ph.D. candidate at the University of Technology Sydney (UTS), Australia. His research focuses on computer vision, with over 50 publications in prestigious journals and conferences including **IEEE TNNLS**, **TIP**, **CVPR**, **ICCV**, **ACM MM**, and **ICRA**. He has led multiple research projects including the National Natural Science Foundation of China, and has received the First Prize of the Shaanxi Provincial Science and Technology Award and the Runner-up of the IEEE ICME'21 Best Demo Award.
-
-[![Homepage](https://img.shields.io/badge/🏠_Xidian_Profile-blue?style=flat-square)](https://faculty.xidian.edu.cn/fei_gao/zh_CN/index.htm)
+[![Homepage](https://img.shields.io/badge/🏠_主页@西电Xidian-blue?style=flat-square)](https://faculty.xidian.edu.cn/fei_gao/zh_CN/index.htm)
 [![Github](https://img.shields.io/badge/GitHub-2b6cb0?style=flat-square&logo=github&logoColor=white)](https://github.com/fei-aiart)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)
 [![DBLP](https://img.shields.io/badge/DBLP-004B87?style=flat-square&logo=dblp&logoColor=white)](https://dblp.org/pid/16/722-6)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8714-0975)
-[![Courses](https://img.shields.io/badge/📚_Courses-FF6F00?style=flat-square)](https://github.com/fei-aiart/courses)
-[![IIP](https://img.shields.io/badge/🏠_IIP_Lab-blue?style=flat-square)](https://iip-xdu.github.io/)
+[![ORCID](https://img.shields.io/badge/ORCID-A1C039?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8714-0975)
+[![Courses](https://img.shields.io/badge/📚_课程Courses-CC0000?style=flat-square)](https://github.com/fei-aiart/courses)
+[![IIP](https://img.shields.io/badge/🏠_实验室IIP_Lab-blue?style=flat-square)](https://iip-xdu.github.io/)
 
-## Research Interests
+## 研究兴趣 Research Interests
 
-- **🎨 Visual Content Generation**: Cross-domain image synthesis, artistic style transfer, image inpainting/super-resolution, text-to-image generation
-- **🛡️ Robust Visual Analysis**: Quality assessment, image classification, object detection, semantic segmentation, cross-domain analysis
-- **🏥 Biomedical Image Analysis**: Lung cancer, breast cancer, fundus images, cerebrovascular, brain tumors
-- **🤖 Embodied AI**: Painting robots, quadruped robots, humanoid robots (VLM / VLA technologies)
+- **🎨 视觉内容生成**：跨域图像合成、艺术风格迁移、图像修复/超分、文字生成
+- **🛡️ 鲁棒视觉分析**：质量评价、图像分类、目标检测、语义分割、跨域分析
+- **🏥 医疗影像分析**：肺癌、乳腺癌、眼底图像、脑血管、脑瘤等
+- **🤖 具身智能**：绘画/四足/人形机器人（VLM / VLA技术）
+
+## 🧑‍🎓 招生信息 Prospective Students
+
+> **团队每年招收 3-6 名硕士**（通信工程 / 计算机技术），欢迎保研/考研同学申报！
+
+**📧 申请方式**  
+将个人简历 + 成绩单整合为 **1个PDF**，命名为 `姓名-学校.pdf`，发送至邮箱（请查阅主页）。
+
+**🎯 偏好**  
+- **品行良好** —— 正直、踏实、有团队精神  
+- **主动性强** —— 自学过深度学习/AI，能读论文、跑实验  
+- **动手能力** —— 在软/硬件方面有较好实践能力
 
 
-
-## Selected Publications
+## 代表性论文 Selected Publications
 
 ### 2026
 
