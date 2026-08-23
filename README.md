@@ -51,7 +51,7 @@ Fei Gao, Xidian Hangzhou
 
 - **`HiSAC`** Jiangpeng Wang, Fei Gao\*, Nannan Wang. *Hierarchical Style Aggregation for Versatile Chinese Handwriting Generation.* **ECCV**, 2026. [![Code](https://img.shields.io/badge/Code-GitHub-2b6cb0?style=flat-square&logo=github&logoColor=white)](https://github.com/IIP-Lab-XDU/HiSAC)
 
-- **`AdaNoise`** Xi Yang, Haoyuan Shi, Fei Gao\*, Nannan Wang. *AdaNoise: Cycle-Consistent Image Translation with Domain-Adaptive Noise Perturbation.* **IEEE TCSVT**, 2026. [![Paper](https://img.shields.io/badge/Paper-IEEE-00629b?style=flat-square&logo=ieee&logoColor=white)](https://api.semanticscholar.org/CorpusID:287229704)
+- **`AdaNoise`** Xi Yang, Haoyuan Shi, Fei Gao\*, Nannan Wang. *AdaNoise: Cycle-Consistent Image Translation with Domain-Adaptive Noise Perturbation.* **IEEE TCSVT**, 2026. [![Paper](https://img.shields.io/badge/Paper-IEEE-00629b?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11475499/)
 
 - **`KPE`** Ziyun Li, Huancheng Hu, Soon Hoe Lim, Xuyu Li, Fei Gao, Enmao Diao, Zezhen Ding, Michalis Vazirgiannis, Henrik Boström. *A Kinetic Energy Perspective of Flow Matching.* **ICML (spotlight)**, 2026. [![Paper](https://img.shields.io/badge/Paper-ICML-00629b?style=flat-square)](https://icml.cc/virtual/2026/poster/62806)
 
@@ -59,7 +59,7 @@ Fei Gao, Xidian Hangzhou
 
 ### 2025
 
-- **`S3OIL`** Xi Yang, Haoyuan Shi, Ziyun Li, Maoying Qiao, Fei Gao\*, Nannan Wang. *S3OIL: Semi-Supervised SAR-to-Optical Image Translation via Multi-Scale and Cross-Set Matching.* **IEEE TIP**, 6641-6654, Oct. 2025. [![Paper](https://img.shields.io/badge/Paper-IEEE-00629b?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11196005) [![Code](https://img.shields.io/badge/Code-GitHub-2b6cb0?style=flat-square&logo=github&logoColor=white)](https://github.com/IIP-Lab-XDU/S3OIL)
+- **`S3OIL`** Xi Yang, Haoyuan Shi, Ziyun Li, Maoying Qiao, Fei Gao\*, Nannan Wang. *S3OIL: Semi-Supervised SAR-to-Optical Image Translation via Multi-Scale and Cross-Set Matching.* **IEEE TIP**, 34: 6641-6654, Oct. 2025. [![Paper](https://img.shields.io/badge/Paper-IEEE-00629b?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11196005) [![Code](https://img.shields.io/badge/Code-GitHub-2b6cb0?style=flat-square&logo=github&logoColor=white)](https://github.com/IIP-Lab-XDU/S3OIL)
 
 - **`KAN Policy`** Zikang Chen, Fei Gao, Ziya Yu, Peng Li. *KAN Policy: Learning Efficient and Smooth Robotic Trajectories via Kolmogorov-Arnold Networks.* **IEEE RAL**, 11164-11171, Sep. 2025. [![Paper](https://img.shields.io/badge/Paper-IEEE-00629b?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11151197) [![Code](https://img.shields.io/badge/Code-GitHub-2b6cb0?style=flat-square&logo=github&logoColor=white)](https://github.com/fei-aiart/KAN-Policy)
 
