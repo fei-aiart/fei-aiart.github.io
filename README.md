@@ -51,7 +51,7 @@ Fei Gao, Xidian Hangzhou
 
 - **`HiSAC`** Jiangpeng Wang, Fei Gao\*, Nannan Wang. *Hierarchical Style Aggregation for Versatile Chinese Handwriting Generation.* **ECCV**, 2026. [![Code](https://img.shields.io/badge/Code-GitHub-2b6cb0?style=flat-square&logo=github&logoColor=white)](https://github.com/IIP-Lab-XDU/HiSAC)
 
-- **`AdaNoise`** Xi Yang, Haoyuan Shi, Fei Gao\*, Nannan Wang. *AdaNoise: Cycle-Consistent Image Translation with Domain-Adaptive Noise Perturbation.* **IEEE TCSVT**, 2026. [![Paper](https://img.shields.io/badge/Paper-IEEE-00629b?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11475499/)
+- **`AdaNoise`** Xi Yang, Haoyuan Shi, Fei Gao\*, Nannan Wang. *AdaNoise: Cycle-Consistent Image Translation with Domain-Adaptive Noise Perturbation.* **IEEE TCSVT**, 36(8): 12213-12227, 2026. [![Paper](https://img.shields.io/badge/Paper-IEEE-00629b?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11475499)
 
 - **`KPE`** Ziyun Li, Huancheng Hu, Soon Hoe Lim, Xuyu Li, Fei Gao, Enmao Diao, Zezhen Ding, Michalis Vazirgiannis, Henrik Boström. *A Kinetic Energy Perspective of Flow Matching.* **ICML (spotlight)**, 2026. [![Paper](https://img.shields.io/badge/Paper-ICML-00629b?style=flat-square)](https://icml.cc/virtual/2026/poster/62806)
 
