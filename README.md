@@ -39,7 +39,7 @@ Fei Gao, Xidian Hangzhou
 
 ### 2026
 
-- **`OOTD`** Derui Zhang, Yiji Feng, Fei Gao\*, Nannan Wang. *One is Enough: Disentangled Style Transfer via One-to-One Token Distillation.* **ACM MM**, 2026. [![Code](https://img.shields.io/badge/Code-GitHub-2b6cb0?style=flat-square&logo=github&logoColor=white)](https://github.com/IIP-Lab-XDU/OOTD)
+- **`OOTD`** Derui Zhang, Yiji Feng, Fei Gao\*, Nannan Wang. *One is Enough: Disentangled Style Transfer via One-to-One Token Distillation.* **ACM MM (Oral)**, 2026. [![Code](https://img.shields.io/badge/Code-GitHub-2b6cb0?style=flat-square&logo=github&logoColor=white)](https://github.com/IIP-Lab-XDU/OOTD)
 
 - **`MAIST`** Hanyu Xing, Fei Gao\*, Xi Yang, Ziyun Li, Pengyu Chen, Nannan Wang. *Imagine A Reference: MLLM-Augmented Versatile Image Stylization.* **ACM MM**, 2026.
 
