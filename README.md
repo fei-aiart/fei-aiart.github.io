@@ -45,7 +45,8 @@ Fei Gao, Xidian Hangzhou
 
 - **`CPSP`** Qian Xu, Xi Li, Fei Gao, Qiming Zhang, Mingjin Zhang. *CPSP: Channel Polarization and Global-Budget Structured Pruning for Infrared Small Target Detection.* **ACM MM**, 2026.
 
-- **`RidgeField-Net`** Mingjin Zhang, Shuaipeng Fan, Fei Gao, Jie Guo, Yunsong Li. *RidgeField-Net: Continuous Spatio-Temporal Tube Fields for Tiny UAV Detection in Event Streams.* **ACM MM**, 2026.
+- **`RidgeField-Net`** Mingjin Zhang, Shuaipeng Fan, Fei Gao, Jie Guo, Yunsong Li. *RidgeField-Net: Continuous Spatio-Temporal Tube Fields for Tiny UAV Detection in Event Streams.* **ACM MM**, 2026. [![Code](https://img.shields.io/badge/Code-GitHub-2b6cb0?style=flat-square&logo=github&logoColor=white)](https://github.com/Fs9Td/RidgeField-Net)
+
 
 - **`ThermalDiffusion`** Mingjin Zhang, FengQin Lu, Jingyuan Gao, Fei Gao, Qiming Zhang. *ThermalDiffusion: Confidence-Aware Diffusion for Sparse-View Thermal Infrared Novel View Synthesis.* **ACM MM**, 2026.
 
