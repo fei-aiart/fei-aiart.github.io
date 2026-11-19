@@ -5,9 +5,9 @@ Fei Gao, Xidian Hangzhou
 
 ## 个人简介 Biography
 
-高飞，西安电子科技大学杭州研究院，副研究员、湘湖菁英教授，入选**浙江省万人计划青年科技人才**。2015年获西安电子科技大学博士学位，曾于澳大利亚悉尼科技大学进行博士联合培养。长期从事计算机视觉研究，在 **IEEE TNNLS**、**TIP**、**CVPR**、**ICCV**、**ACM MM**、**ICRA** 等期刊/会议发表论文50余篇。主持国家自然科学基金面上/青年项目等纵向课题，获陕西省科学技术奖一等奖、IEEE ICME'21最佳展示奖亚军、全国博士后创新创业大赛铜奖等。
+高飞，西安电子科技大学杭州研究院，副研究员、湘湖菁英教授，入选**浙江省万人计划青年科技人才**、陕西省优秀留学回国人才。2015年获西安电子科技大学博士学位，曾于澳大利亚悉尼科技大学进行博士联合培养。长期从事计算机视觉研究，在 **IEEE TNNLS**、**TIP**、**CVPR**、**ICCV**、**ACM MM**、**ICRA** 等期刊/会议发表论文50余篇，并获ACM MM 2026杰出论文奖（Outstanding Paper Award）。主持国家自然科学基金面上/青年项目等纵向课题，获陕西省科学技术奖一等奖、2026 陕西省留创赛金奖、IEEE ICME'21最佳展示奖亚军、全国博士后创新创业大赛铜奖等。
 
-> Fei Gao is currently an Xianghu Elite Professor at the [Hangzhou Institute of Technology](http://hz.xidian.edu.cn/), [Xidian University](http://www.xidian.edu.cn/). He received his Ph.D. degree from Xidian University in 2015, and was a joint Ph.D. candidate at the University of Technology Sydney (UTS), Australia. His research focuses on computer vision, with over 50 publications in prestigious journals and conferences including **IEEE TNNLS**, **TIP**, **CVPR**, **ICCV**, **ACM MM**, and **ICRA**. He has led multiple research projects including the National Natural Science Foundation of China, and has received the First Prize of the Shaanxi Provincial Science and Technology Award and the Runner-up of the IEEE ICME'21 Best Demo Award.
+> Fei Gao is currently an Xianghu Elite Professor at the [Hangzhou Institute of Technology](http://hz.xidian.edu.cn/), [Xidian University](http://www.xidian.edu.cn/). He received his Ph.D. degree from Xidian University in 2015, and was a joint Ph.D. candidate at the University of Technology Sydney (UTS), Australia. His research focuses on computer vision, with over 50 publications in prestigious journals and conferences, including **IEEE TNNLS**, **TIP**, **CVPR**, **ICCV**, **ACM MM**, and **ICRA**; with one ACM MM 2026 Outstanding Paper Award. He has led multiple research projects including the National Natural Science Foundation of China, and has received several provisional and academic awards.
 
 [![Homepage](https://img.shields.io/badge/🏠_主页@西电Xidian-blue?style=flat-square)](https://faculty.xidian.edu.cn/fei_gao/zh_CN/index.htm)
 [![Github](https://img.shields.io/badge/GitHub-2b6cb0?style=flat-square&logo=github&logoColor=white)](https://github.com/fei-aiart)
@@ -30,7 +30,7 @@ Fei Gao, Xidian Hangzhou
 
 将个人简历 + 成绩单整合为 **1个PDF**，命名为 `姓名-学校.pdf`，发送至邮箱（请查阅主页）。
 
-- **品行良好** —— 正直、踏实、有团队精神  
+- **品行良好**  
 - **主动性强** —— 自学过深度学习/AI，能读论文、跑实验  
 - **动手能力** —— 在软/硬件方面有较好实践能力
 
@@ -39,7 +39,7 @@ Fei Gao, Xidian Hangzhou
 
 ### 2026
 
-- **`OOTD`** Derui Zhang, Yiji Feng, Fei Gao\*, Nannan Wang. *One is Enough: Disentangled Style Transfer via One-to-One Token Distillation.* **ACM MM (Oral)**, 2026. [![Code](https://img.shields.io/badge/Code-GitHub-2b6cb0?style=flat-square&logo=github&logoColor=white)](https://github.com/IIP-Lab-XDU/OOTD)
+- **`OOTD`** Derui Zhang, Yiji Feng, Fei Gao\*, Nannan Wang. *One is Enough: Disentangled Style Transfer via One-to-One Token Distillation.* **ACM MM (Oral， Outstanding Paper Award)**, 2026. [![Code](https://img.shields.io/badge/Code-GitHub-2b6cb0?style=flat-square&logo=github&logoColor=white)](https://github.com/IIP-Lab-XDU/OOTD)
 
 - **`MAIST`** Hanyu Xing, Fei Gao\*, Xi Yang, Ziyun Li, Pengyu Chen, Nannan Wang. *Imagine A Reference: MLLM-Augmented Versatile Image Stylization.* **ACM MM**, 2026.
 
